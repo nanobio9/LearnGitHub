@@ -2,6 +2,11 @@
 
 情境：辦公室電腦與家裡電腦輪流開發同一個專案。是的，最佳做法就是把專案放進 GitHub repository，兩邊各有一份完整副本，以 `push` / `pull` 同步。
 
+延伸閱讀：
+
+- [在另一台電腦接手專案](continue-on-another-computer.md)
+- [GitHub Pages：發布 HTML 網頁](github-pages.md)
+
 ## 1. 基本觀念
 
 - **Repository (repo)**：專案資料夾加上完整版本歷史。
